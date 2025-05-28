@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.BuilderDesignPattern;
+package com.LLD.DesignPatterns.Builder;
 
 public class Director {
 
