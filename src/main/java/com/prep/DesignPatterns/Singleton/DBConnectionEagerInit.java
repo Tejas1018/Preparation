@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.Singleton;
+package com.prep.DesignPatterns.Singleton;
 
 public class DBConnectionEagerInit {
     private static DBConnectionEagerInit dbConnectionEagerInit;

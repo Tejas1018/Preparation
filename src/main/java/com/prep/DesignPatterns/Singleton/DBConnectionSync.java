@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.Singleton;
+package com.prep.DesignPatterns.Singleton;
 
 public class DBConnectionSync {
     private static DBConnectionSync  dbConnectionSync;

@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.Decorator;
+package com.prep.DesignPatterns.Decorator;
 
 public interface IceCream {
     int getCost();

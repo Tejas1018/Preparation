@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.Decorator;
+package com.prep.DesignPatterns.Decorator;
 
 //Choclate cone acts as both base cone as well as AddOn
 public class ChoclateCone implements  IceCream{

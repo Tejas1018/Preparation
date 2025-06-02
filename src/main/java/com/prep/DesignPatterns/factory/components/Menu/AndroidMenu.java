@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.factory.components.Menu;
+package com.prep.DesignPatterns.factory.components.Menu;
 
 public class AndroidMenu implements Menu {
     @Override

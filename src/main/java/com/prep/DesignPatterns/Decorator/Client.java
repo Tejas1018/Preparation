@@ -1,4 +1,4 @@
-package com.LLD.DesignPatterns.Decorator;
+package com.prep.DesignPatterns.Decorator;
 
 public class Client {
     public static void main(String[] args) {
