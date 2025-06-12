@@ -1,6 +1,5 @@
-package com.LLD.DesignPatterns.BuilderDesignPattern;
+package com.prep.DesignPatterns.Builder;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public abstract class StudentBuilder {
