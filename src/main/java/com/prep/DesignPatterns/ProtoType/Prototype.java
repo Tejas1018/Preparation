@@ -1,4 +1,6 @@
 package com.prep.DesignPatterns.ProtoType;
 
-public interface Prototype {
+public interface Prototype<T> {
+
+    T clone();
 }

@@ -1,9 +1,9 @@
-package com.prep.DesignParkingLot.stratergy;
+package com.prep.DesignParkingLot.stratergy.parkingSpotStratergy;
 
 import com.prep.DesignParkingLot.models.ParkingSpot;
-import com.prep.DesignParkingLot.models.vehicle;
+import com.prep.DesignParkingLot.models.Vehicle;
 
 public interface ParkingSpotAssignmentStrategy {
 
-    ParkingSpot assignParkingSpot(vehicle vehicle);
+    ParkingSpot assignParkingSpot(Vehicle vehicle);
 }

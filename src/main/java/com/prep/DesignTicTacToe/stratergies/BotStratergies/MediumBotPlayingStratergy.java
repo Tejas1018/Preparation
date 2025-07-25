@@ -1,4 +1,11 @@
 package com.prep.DesignTicTacToe.stratergies.BotStratergies;
 
-public class MediumBotPlayingStratergy {
+import com.prep.DesignTicTacToe.models.Board;
+import com.prep.DesignTicTacToe.models.Move;
+
+public class MediumBotPlayingStratergy implements BotPlayingStratergy{
+    @Override
+    public Move makeMove(Board board) {
+        return null;
+    }
 }

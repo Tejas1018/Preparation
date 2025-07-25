@@ -1,4 +1,4 @@
-package com.prep.DesignTicTacToe.stratergies.winningStratergy;
+package com.prep.DesignTicTacToe.stratergies.winningStratergies;
 
 import com.prep.DesignTicTacToe.models.Board;
 import com.prep.DesignTicTacToe.models.Move;

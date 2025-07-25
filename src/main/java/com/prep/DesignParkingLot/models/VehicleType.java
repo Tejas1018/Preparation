@@ -1,6 +1,6 @@
 package com.prep.DesignParkingLot.models;
 
-public enum SupportedVehicleType {
+public enum VehicleType {
     BIKE,
     CAR,
     TRUCK

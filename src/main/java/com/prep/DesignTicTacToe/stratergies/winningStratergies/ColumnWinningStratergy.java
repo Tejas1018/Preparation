@@ -1,4 +1,4 @@
-package com.prep.DesignTicTacToe.stratergies.winningStratergy;
+package com.prep.DesignTicTacToe.stratergies.winningStratergies;
 
 import com.prep.DesignTicTacToe.models.Board;
 import com.prep.DesignTicTacToe.models.Move;
@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ColumnWinningStratergy implements WinningStratergy{
-    Map<Integer,Map<Symbol,Integer>> columnMap;
+    Map<Integer,Map<Symbol,Integer>> columnMap = new HashMap<>();
     @Override
     public boolean checkWinner(Move move, Board board) {
         int col = move.getCell().getCol();
